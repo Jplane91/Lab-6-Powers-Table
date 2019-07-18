@@ -1,0 +1,11 @@
+/Users/mac/Projects/PowersTable/PowersTable/bin/Debug/netcoreapp2.1/PowersTable.deps.json
+/Users/mac/Projects/PowersTable/PowersTable/bin/Debug/netcoreapp2.1/PowersTable.runtimeconfig.json
+/Users/mac/Projects/PowersTable/PowersTable/bin/Debug/netcoreapp2.1/PowersTable.runtimeconfig.dev.json
+/Users/mac/Projects/PowersTable/PowersTable/bin/Debug/netcoreapp2.1/PowersTable.dll
+/Users/mac/Projects/PowersTable/PowersTable/bin/Debug/netcoreapp2.1/PowersTable.pdb
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.csprojAssemblyReference.cache
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.AssemblyInfoInputs.cache
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.AssemblyInfo.cs
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.dll
+/Users/mac/Projects/PowersTable/PowersTable/obj/Debug/netcoreapp2.1/PowersTable.pdb
